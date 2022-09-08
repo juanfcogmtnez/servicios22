@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Swiss-head;
+  src: url('../fonts/swiss-h.ttf');
+}
+@font-face {
+  font-family: Swiss-normal;
+  src: url('../fonts/swiss-n.ttf');
+}
+body{
+  background-color:#252850;
+  font-family: Swiss-normal;
+  color:whitesmoke;
+}
+input{
+  background-color:#252850;
+  font-family: Swiss-normal;
+}
+.img-thumbnail{
+  background-color:#252850;
+  font-family: Swiss-normal;
+  border-color:#252850;
+}
+.modal, .modal-body{
+  background-color:#252850;
+  font-family: Swiss-normal;
+}
+.navbar{
+  background-color:#252850;
+  font-family: Swiss-normal;
+}
+.card{
+  background-color:#252850;
+  font-family: Swiss-normal;
+}
+#user{
+color:whitesmoke
+}
+.navbar-toggler{
+  color:whitesmoke
+}
+a{
+  cursor:pointer;
+}
+#fix2019, #fix2020, #fix2021{
+    position: relative;
+    margin: auto;
+    height: 30vh;
+    width: 20vw;
+  
+}
