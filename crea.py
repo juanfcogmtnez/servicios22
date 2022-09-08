@@ -29,8 +29,4 @@ def checkpwd(email,texto):
 	if user == 'ok' and pawd == 'ok':
 		return (df.loc[numero][0],df.loc[numero][3])
 	else:
-<<<<<<< HEAD
 		return('Error','Error')
-=======
-		return('Error','Error')
->>>>>>> 53808530fc12346abf0b3dfe25161444189fc72f
